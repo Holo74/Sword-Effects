@@ -1,5 +1,5 @@
 # Sword Effects
 
-## Setup
+## What it does
 
 Able to apply potions to swords
